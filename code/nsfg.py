@@ -1,4 +1,4 @@
-"""This file contains code for use with "Think Stats",
+ """This file contains code for use with "Think Stats",
 by Allen B. Downey, available from greenteapress.com
 
 Copyright 2010 Allen B. Downey
